@@ -1,0 +1,47 @@
+
+Tank_Set.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tank1
+  rotate: false
+  xy: 1, 49
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tank1rev
+  rotate: false
+  xy: 67, 49
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tank2
+  rotate: false
+  xy: 1, 1
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+tank2rev
+  rotate: false
+  xy: 133, 69
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+tank3
+  rotate: false
+  xy: 67, 9
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+tank3rev
+  rotate: false
+  xy: 133, 29
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1

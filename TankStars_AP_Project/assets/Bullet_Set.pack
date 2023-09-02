@@ -1,0 +1,19 @@
+
+Bullet_Set.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bullet
+  rotate: false
+  xy: 1, 1
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+bulletrev
+  rotate: false
+  xy: 19, 1
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
